@@ -1,0 +1,13 @@
+node_modules
+dist
+dist-ssr
+*.local
+*.log
+npm-debug.log*
+.env
+*.db
+uploads/*
+!uploads/.gitkeep
+build-output.txt
+.DS_Store
+.vscode

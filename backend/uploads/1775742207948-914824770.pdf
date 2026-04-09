@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<!-- saved from url=(0049)file:///C:/Users/Felix/Desktop/my%20cv/index.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Byumvuhore Felix - CV</title>
+    <link rel="stylesheet" href="./Byumvuhore Felix - CV_files/style.css">
+    <link rel="stylesheet" href="./Byumvuhore Felix - CV_files/all.min.css">
+    <link href="./Byumvuhore Felix - CV_files/css2" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container">
+        <!-- LEFT SIDEBAR -->
+        <div class="sidebar">
+            <div class="profile-container">
+                <img src="./Byumvuhore Felix - CV_files/cv.jpeg" alt="Byumvuhore Felix" class="profile-img">
+            </div>
+
+            <div class="sidebar-section">
+                <h3>CONTACT</h3>
+                <div class="contact-item">
+                    <i class="fas fa-phone"></i>
+                    <span>+250784010076</span>
+                </div>
+                <div class="contact-item">
+                    <i class="fas fa-envelope"></i>
+                    <span>felixbyumvuhore54@gmail.com</span>
+                </div>
+                <div class="contact-item">
+                    <i class="fas fa-map-marker-alt"></i>
+                    <span>Kigali, Rwanda</span>
+                </div>
+            </div>
+
+            <div class="sidebar-section">
+                <h3>LINKS</h3>
+                <div class="link-item">
+                    <a href="https://www.linkedin.com/in/felix-byumvuhore">LinkedIn: Felix Byumvuhore</a>
+                </div>
+                <div class="link-item">
+                    <a href="https://github.com/felixbyumvuhore">GitHub: Felix Byumvuhore</a>
+                </div>
+                <!-- <div class="link-item">
+                    <a href="#">Portfolio</a>
+                </div> -->
+            </div>
+
+            <!-- Skills moved to main content -->
+
+            <div class="sidebar-section">
+                <h3>LANGUAGES</h3>
+                <div class="language-item">
+                    <span class="lang-name">English</span>
+                    <span class="lang-level">Fluent</span>
+                </div>
+                <div class="language-item">
+                    <span class="lang-name">Kinyarwanda</span>
+                    <span class="lang-level">Native</span>
+                </div>
+                <!-- <div class="language-item">
+                    <span class="lang-name">French</span>
+                    <span class="lang-level">Intermediate</span>
+                </div> -->
+            </div>
+
+            <div class="sidebar-section">
+                <h3>HOBBIES</h3>
+                <div class="hobby-item">
+                    <i class="fas fa-code"></i> Coding
+                </div>
+                <div class="hobby-item">
+                    <i class="fas fa-spa"></i> Meditation
+                </div>
+                <div class="hobby-item">
+                    <i class="fas fa-hands-helping"></i> Counseling
+                </div>
+                <div class="hobby-item">
+                    <i class="fas fa-users"></i> Team Collaboration
+                </div>
+                <div class="hobby-item">
+                    <i class="fas fa-chalkboard-teacher"></i> Tech Mentorship
+                </div>
+            </div>
+
+            <div class="sidebar-section">
+                <h3>REFERENCES</h3>
+                <div class="reference-item">
+                    <div class="ref-name">Munyentwari Clement</div>
+                    <div class="ref-title">CEO &amp; Software Engineer</div>
+                    <div class="ref-company">Ikigugu Group Ltd</div>
+                    <div class="ref-contact">
+                        <div><i class="fas fa-envelop"></i> ambitieux.clement@gmail.com</div>
+                        <div><i class="fas fa-phone"></i> +250 788 807 133</div>
+                    </div>
+                </div>
+                <div class="reference-item" style="margin-top: 15px;">
+                    <div class="ref-name">Mbonimana Consolee</div>
+                    <div class="ref-title">HOD Computer Science</div>
+                    <div class="ref-company">INES Ruhengeri</div>
+                    <div class="ref-contact">
+                        <div><i class="fas fa-envelope"></i> mbonicos19@gmail.com</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- MAIN CONTENT -->
+        <div class="main-content">
+            <div class="header">
+                <h1>BYUMVUHORE FELIX</h1>
+                <h2>SOFTWARE ENGINEER</h2>
+            </div>
+
+            <div class="section">
+                <h3>ABOUT ME</h3>
+                <p>
+                    Passionate Software Engineer based in Kigali, Rwanda. Dedicated to building efficient and scalable
+                    software solutions.
+                    Experienced in full-stack development and always eager to learn new technologies and tackle complex
+                    problems.
+                </p>
+            </div>
+
+            <div class="section">
+                <h3>CORE TECHNICAL SKILLS</h3>
+                <div class="skills-grid">
+                    <!-- Frontend -->
+                    <div class="skill-category">
+                        <div class="cat-header">
+                            <i class="fas fa-code"></i> Frontend
+                        </div>
+                        <div class="cat-tags">
+                            <span>React.js</span>
+                            <span>Next.js</span>
+                            <span>Flutter</span>
+                            <span>React Native</span>
+                            <span>Tailwind CSS</span>
+                            <span>Bootstrap</span>
+                        </div>
+                    </div>
+
+                    <!-- Backend -->
+                    <div class="skill-category">
+                        <div class="cat-header">
+                            <i class="fas fa-server"></i> Backend
+                        </div>
+                        <div class="cat-tags">
+                            <span>Node.js</span>
+                            <span>Express.js</span>
+                            <span>PHP</span>
+                            <span>Dart</span>
+                            <span>Python</span>
+                            <span>RESTful APIs</span>
+                        </div>
+                    </div>
+
+                    <!-- Database -->
+                    <div class="skill-category">
+                        <div class="cat-header">
+                            <i class="fas fa-database"></i> Database
+                        </div>
+                        <div class="cat-tags">
+                            <span>MySQL</span>
+                            <span>PostgreSQL</span>
+                            <span>SQL</span>
+                            <span>Data Modeling</span>
+                        </div>
+                    </div>
+
+                    <!-- Tools -->
+                    <div class="skill-category">
+                        <div class="cat-header">
+                            <i class="fas fa-tools"></i> Tools &amp; Practices
+                        </div>
+                        <div class="cat-tags">
+                            <span>Git &amp; GitHub</span>
+                            <span>JWT Auth</span>
+                            <span>Postman</span>
+                            <span>Agile</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="section">
+                <h3>WORK EXPERIENCE</h3>
+
+                <div class="timeline-item">
+                    <div class="timeline-left">
+                        <div class="company">Freelance / Self-Employed</div>
+                        <div class="location">Kigali, Rwanda</div>
+                        <div class="date">2023 - Present</div>
+                    </div>
+                    <div class="timeline-right">
+                        <div class="role">Full Stack Web Developer</div>
+                        <ul class="duties">
+                            <li><strong>Ikirayi Market:</strong> Designed and developed an e-commerce platform for local
+                                markets, enabling vendors to reach a wider audience.</li>
+                            <li><strong>Felix Training:</strong> Built an educational portal for sharing resources and
+                                managing training sessions.</li>
+                            <li><strong>Felix Fit:</strong> Created a fitness tracking and coaching website to help
+                                users monitor their health goals.</li>
+                            <li><strong>INES Academia:</strong> Developed an academic management system to streamline
+                                university operations and student records.</li>
+                            <li><strong>Artificial AI Training:</strong> Implemented an AI-focused learning platform
+                                delivering interactive coursework and practical exercises.</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="timeline-item">
+                    <div class="timeline-left">
+                        <div class="company">INES Ruhengeri</div>
+                        <div class="location">Musanze, Rwanda</div>
+                        <div class="date">Feb 2025 - Mar 2026</div>
+                    </div>
+                    <div class="timeline-right">
+                        <div class="role">Software Engineer &amp; Club Leader</div>
+                        <ul class="duties">
+                            <li><strong>Neuro Code Club Leader:</strong> Led the coding club, organizing workshops and
+                                peer learning sessions to enhance student programming skills.</li>
+                            <li><strong>Class Representative:</strong> Served as the representative for the Software
+                                Engineering class for three years, facilitating communication between students and
+                                administration.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="section">
+                <h3>EDUCATION</h3>
+                <div class="timeline-item">
+                    <div class="timeline-left">
+                        <div class="company">INES Ruhengeri</div>
+                        <div class="location">Ruhengeri, Rwanda</div>
+                        <div class="date">Expected Dec 2026</div>
+                    </div>
+                    <div class="timeline-right">
+                        <div class="role">B.Sc. in Software Engineering</div>
+                        <div class="duties">
+                            Currently pursuing degree. Expected graduation: Dec 17, 2026.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</body></html>
